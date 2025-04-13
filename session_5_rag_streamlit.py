@@ -303,5 +303,3 @@ def reset_conversation():
 
 if __name__ == "__main__":
     main()
-
-streamlit run rag_streamlit.py --server.port=8989 &>./logs.txt &
