@@ -29,9 +29,8 @@ pdfplumber
 
 """Next, let's import all required libraries:"""
 
-pip install streamlit
+streamlit
 
-pip install pyngrok
 
 import os
 import pdfplumber
